@@ -62,8 +62,8 @@ After implementing multiple ensemble methods (bagging, random forest, and gradie
 ## Variable Importance Analysis
 The variable importance plot revealed the following key predictors:
 **Immunization (HepB3):** Most influential factor, indicating the strong relationship between public health infrastructure and suicide rates
-Tariff Rates: Second most important predictor, suggesting economic policy impacts
-Economic Indicators: Including gross capital formation and government expenditure
+**Tariff Rates:** Second most important predictor, suggesting economic policy impacts  
+**Economic Indicators:** Including gross capital formation and government expenditure
 ## SHAP (SHapley Additive exPlanations) Analysis
 The SHAP analysis provided deeper insights into feature contributions:
 Revealed complex interactions between health indicators and economic factors
