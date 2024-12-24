@@ -6,7 +6,8 @@ This project aims to identify the significant factors affecting suicide mortalit
 
 # Dataset
 
-The dataset for this project was curated by combining multiple datasets from World Bank Data repositories. These datasets include various socioeconomic and demographic features, such as age, gender, GDP, and population statistics, alongside corresponding suicide rates. This integration of diverse data sources ensures a comprehensive analysis of the factors influencing suicide mortality rates.
+The dataset for this project was curated by combining multiple datasets from World Bank Data repositories. These datasets include various socioeconomic and demographic features, such as age, gender, GDP, and population statistics, alongside corresponding suicide rates. This integration of diverse data sources ensures a comprehensive analysis of the factors influencing suicide mortality rates.  
+
 **WORLD BANK->** https://data.worldbank.org/
 
 # Steps Performed
