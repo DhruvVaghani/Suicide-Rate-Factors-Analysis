@@ -11,15 +11,15 @@ WORLD BANK-> https://data.worldbank.org/
 
 # Steps Performed
 
-#Data Preprocessing
+## Data Preprocessing
 
-Backward Elimination:
+###Backward Elimination:
 
 Performed to systematically remove less significant variables from the model, starting with the least significant based on p-values.
 
 Benefit: Ensures a more parsimonious model by retaining only the most impactful predictors, thereby reducing complexity and potential overfitting.
 
-Removing High VIF Values:
+### Removing High VIF Values:
 
 Checked for multicollinearity by calculating Variance Inflation Factors (VIF) for each variable and eliminated variables with high VIF values.
 
