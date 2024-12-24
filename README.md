@@ -1,15 +1,15 @@
 # Suicide-Rate-Factors-Analysis
 This project delves into the intricate relationship between various factors and suicide mortality rates, aiming to uncover meaningful insights through a comprehensive data-driven approach. By utilizing advanced data preprocessing techniques, exploratory visualizations, and machine learning models, this analysis seeks to identify significant predictors of suicide rates. The project not only showcases technical proficiency but also emphasizes the critical thinking required to interpret and act upon complex datasets.
-#Project Overview
+# Project Overview
 
 This project aims to identify the significant factors affecting suicide mortality rates through data analysis and modeling. By leveraging visualizations and machine learning models, we extract actionable insights and develop a comprehensive understanding of the data.
 
-#Dataset
+# Dataset
 
 The dataset for this project was curated by combining multiple datasets from World Bank Data repositories. These datasets include various socioeconomic and demographic features, such as age, gender, GDP, and population statistics, alongside corresponding suicide rates. This integration of diverse data sources ensures a comprehensive analysis of the factors influencing suicide mortality rates.
 WORLD BANK-> https://data.worldbank.org/
 
-#Steps Performed
+# Steps Performed
 
 #Data Preprocessing
 
